@@ -1,5 +1,5 @@
 pandas
 
-# just an example
+# just an example to demonstrate specific versions of packages
 
-sendgrid = 5.6.0
+sendgrid == 5.6.0
